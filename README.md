@@ -9,8 +9,8 @@ A tool that shows stats in real time of Silent Hill 3, currently working only fo
 - Download the .zip in the release.
 - Open the game first before opening the tool.
 - Extract the .zip and open the .exe.
-- configure it in OBS to remove the background 
-- [Youtube tutorial](https://youtu.be/R9KA_o_vwvs)
+- configure it in OBS to remove the background .
+- [Youtube tutorial](https://youtu.be/R9KA_o_vwvs).
 
 ## **Contributions**
 
