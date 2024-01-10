@@ -1,2 +1,2 @@
-# Silent-Hill-3-NHT-minimalist
+# Silent Hill 3 No Hit Tool
  
